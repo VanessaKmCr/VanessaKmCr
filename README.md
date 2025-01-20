@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, me llamo Vanessa</h1>
-<h3 align="center">Me enfoco a la programación, diseño y administración de proyectos.</h3>
+<h3 align="center">Me enfoco en la programación, diseño y administración de proyectos.</h3>
 
 - 🔭 I’m currently working on [Control_Asistencia](https://github.com/VanessaKmCr/ControlAsistencia_CtrlStar.git)
 
