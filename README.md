@@ -14,4 +14,3 @@ P. alineación="izq. A href="https://developer.android.com" target="blank" rel="
 
 .p.img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessakmcr&show-icons=true&locale=en&layout=compacto" alt=vanessakmcr" /-/p
 
-
